@@ -1,6 +1,6 @@
-# Universe Note 설치 파일
+# 우주 노트 (Universe Note) 설치 파일
 
-개인용 노션 스타일 기록·위키 맥 앱 **Universe Note** 의 설치 파일을 올리는 곳이에요.
+개인용 노션 스타일 기록·위키 맥 앱 **우주 노트 (Universe Note)** 의 설치 파일을 올리는 곳이에요.
 (앱 코드는 비공개 저장소에 있고, 여기에는 설치 파일만 올라가요.)
 
 ## 받기
@@ -14,7 +14,7 @@
 | Apple M1 / M2 / M3 / M4 … | `Universe-Note-<버전>-AppleSilicon.dmg` (또는 `.pkg`) |
 | Intel | `Universe-Note-<버전>-Intel.dmg` (또는 `.pkg`) |
 
-- `.dmg` — 열어서 Universe Note 를 Applications 폴더로 끌어다 놓기
+- `.dmg` — 열어서 우주 노트(Universe Note)를 Applications 폴더로 끌어다 놓기
 - `.pkg` — 더블클릭해서 안내대로 설치
 
 ## 처음 열 때 경고가 뜨면
